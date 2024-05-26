@@ -1,0 +1,122 @@
+@media screen and (min-width:320px) and (max-width:640px)
+{
+    nav ul{
+    display: none;
+    }
+    .main1{
+        height: auto;
+        width: auto;
+        padding: 0px 20px;
+    }
+    .main1 h1{
+      font-size: xxx-large;
+    }
+    .main1a div{
+      width: 80%;
+      margin: 40px auto;
+      align-items: center;
+      margin-right: 80px;
+    }
+    .main1a div input{
+      width: 60%;
+      align-items: center;
+    }
+    .main2{
+      height: auto;
+      width: auto;
+    }
+    .main3{
+      height: auto;
+      width: auto;
+    }
+    .main3 div{
+      border-right: none;
+    }
+    .main4{
+      height: auto;
+      width: auto;
+    }
+    .main4 h1{
+      text-align: center;
+    }
+    .main4 p{
+      text-align: center;
+    }
+    .main5{
+      height: auto;
+      width: auto;
+    }
+    .main5 div{
+      justify-content: center;
+      align-items: center;
+      margin-left: 50px;
+    }
+    .main6{
+      height: auto;
+      width: auto;
+    }
+    .main6a{
+      height: auto;
+      width: auto;
+    }
+    .main7{
+      height: auto;
+      width: auto;
+    }
+    .main7a{
+      width: auto;
+      height: auto;
+    }
+    .main7a div{
+      margin-top: 20px;
+      font-size: 10px;
+    }
+    .main8{
+      width: auto;
+      height: 30vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+    }
+    .main8 h1{
+      text-align: center;
+      margin-left: 150px;
+    }
+    .main8 button{
+      margin-left: 150px;
+    }
+    .main9{
+      height: auto;
+      width: auto;
+    }
+    .main9 h1{
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    .main9a{
+      height: auto;
+      width: auto;
+    }
+    .main9a div{
+      margin-top: 20px;
+    }
+    .main10{
+      height: auto;
+      width: auto;
+    }
+    .main10a{
+      width: auto;
+      height: auto;
+    }
+    .main10a div{
+      margin-top: 20px;
+    }
+    .main11{
+      height: auto;
+      width: auto;
+    }
+    .last{
+      height: auto;
+      width: auto;
+    }
+}
